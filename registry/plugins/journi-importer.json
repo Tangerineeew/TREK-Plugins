@@ -7,6 +7,22 @@
   "type": "page",
   "versions": [
     {
+      "version": "1.1.0",
+      "gitTag": "v1.1.0",
+      "commitSha": "1f9acfd18bd6bb7f15ae8e4440cd9e4760bdddc3",
+      "downloadUrl": "https://github.com/PhyberApex/journi-importer/releases/download/v1.1.0/plugin.zip",
+      "sha256": "6070ccefd9b7fed57662b0400842ea543ee85b3662efe69e8428bb7683b26bda",
+      "trek": ">=4.2.0 <6.0.0",
+      "size": 27212,
+      "apiVersion": 1,
+      "nativeModules": false,
+      "publishedAt": "2026-10-26T11:45:52.858Z",
+      "requiredAddons": [
+        "journey"
+      ],
+      "signature": "W3jbxxL7xL1JjumUkwVDdxExkfmZGfJNBBaRV2Aw4TzyH+8yVoBTxHKh5Vb7+25dJJpm+qoru5KS9Ybxx60SCQ=="
+    },
+    {
       "version": "1.0.0",
       "gitTag": "v1.0.0",
       "commitSha": "67b9779ca867c3209c9ce7df7cc2ffad3a82d13e",
@@ -19,10 +35,12 @@
       "publishedAt": "2026-10-24T10:14:16.363Z",
       "requiredAddons": [
         "journey"
-      ]
+      ],
+      "signature": "XGG+K91ZXOsXoPtaZZaobiN9KegPtfSOby9IGYAdERaTVeP+3EgMBTgib9L8uff9NEPJR2wX5wB/HKoM5Oz/Ag=="
     }
   ],
   "icon": "BookOpen",
   "reviewedAt": "2026-10-25",
-  "boundOwner": "PhyberApex"
+  "boundOwner": "PhyberApex",
+  "authorPublicKey": "qwZq3XwtIoXOM324XIprPThYcnK1hvcByzhIw0F5MzU="
 }
