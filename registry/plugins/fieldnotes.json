@@ -7,18 +7,18 @@
   "type": "page",
   "versions": [
     {
-      "version": "0.3.0",
-      "gitTag": "v0.3.0",
-      "commitSha": "d7477d505b5338b4af187867a502846fc043df69",
-      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes/releases/download/v0.3.0/plugin.zip",
-      "sha256": "865b4345708f57933342a0fc2410bf3b0fd9a244df626a1fa6d3e80ac1f2ba53",
+      "version": "0.3.1",
+      "gitTag": "v0.3.1",
+      "commitSha": "973ae43781baa5d2720defb3357b5c6213b64062",
+      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes/releases/download/v0.3.1/plugin.zip",
+      "sha256": "bb69e1f2f8c4c02482897bfad1f8b6318e5ef0f58a0b2069198020dc277068db",
       "trek": ">=4.1.0",
-      "size": 2917123,
+      "size": 2918588,
       "apiVersion": 1,
       "nativeModules": false,
-      "publishedAt": "2026-10-28T08:05:46.968Z",
+      "publishedAt": "2026-10-28T09:41:15.895Z",
       "operatorEgress": true,
-      "signature": "Hj/vC8awiNjcyEqSVSKQULLZdiV8L9aCtDQolxXY5saC45XcFGuL9h+i60bY/EG4dJMCX3MhCM7+zzg4AMLDDw=="
+      "signature": "CwAhqNO9SJB8sawWoUJp/hSY6jziBMbavWb+m9FkOMp3E9mEN+iL9HJlt4W5fMzM7qk8fLGxAxBbb5GyRdIUBg=="
     },
     {
       "version": "0.2.4",
