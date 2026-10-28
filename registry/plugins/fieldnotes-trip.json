@@ -7,23 +7,23 @@
   "type": "trip-page",
   "versions": [
     {
-      "version": "0.3.0",
-      "gitTag": "v0.3.0",
-      "commitSha": "8ae0ce471360c7519f968cab7d648a89b9e430c2",
-      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes-trip/releases/download/v0.3.0/plugin.zip",
-      "sha256": "a3188b7268f996c4a694ae331c16ea23352307cee86c584b8d458f3169cba406",
+      "version": "0.3.1",
+      "gitTag": "v0.3.1",
+      "commitSha": "d7ddcac28d978ccd51f02eb1c24cc6c7bcd16db9",
+      "downloadUrl": "https://github.com/Tangerineeew/fieldnotes-trip/releases/download/v0.3.1/plugin.zip",
+      "sha256": "8717f2c79eda95668a7cfbe6b1f91af5348aaa72a24c6bde591d054aa744d6f2",
       "trek": ">=4.1.0",
-      "size": 2823895,
+      "size": 2824753,
       "apiVersion": 1,
       "nativeModules": false,
-      "publishedAt": "2026-10-28T08:07:19.899Z",
+      "publishedAt": "2026-10-28T09:42:01.055Z",
       "pluginDependencies": [
         {
           "id": "fieldnotes",
-          "version": ">=0.3.0"
+          "version": ">=0.3.1"
         }
       ],
-      "signature": "kT53oll+a5Zm6d8XgVCW2+7qsgfIBJz/5Re/TkXNHoAgZAudaiDqQgleIIrmCXZxQTdoc/zOTKky1OyO9lHFBA=="
+      "signature": "SErGKc/YpVwo3RoTyXUBx85N++MNAcp4SXL04x7Yldez6+XWC30QZVuvp3u6mHLSusyPzlF0lpZNv9lOIuoBAw=="
     },
     {
       "version": "0.2.4",
